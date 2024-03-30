@@ -2,7 +2,7 @@ backend:
   name: github
   repo: christian-lomp/christian-lomp.github.io
   branch: master
-  site_domain: roaring-horse-5afbb7.netlify.com
+  site_domain: christian-lomp.github.io
 
 media_folder: "images/uploads"
 
